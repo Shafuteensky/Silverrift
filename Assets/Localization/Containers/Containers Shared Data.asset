@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Containers Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Containers
+  m_TableCollectionNameGuidString: 9eab20009600b8b4f86b1fe1aa5d2a1c
+  m_Entries:
+  - m_Id: 7672602624
+    m_Key: CONTAINER_STANDARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1130718470144
+    m_Key: CONTAINER_ALLOWED_TYPE
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3415656466041536739
+  references:
+    version: 2
+    RefIds:
+    - rid: 3415656466041536739
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1732278601910

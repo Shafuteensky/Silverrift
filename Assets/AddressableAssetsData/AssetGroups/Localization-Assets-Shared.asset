@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 53fab788299f00142a1bf133e28c5dc8
+  m_SerializeEntries:
+  - m_GUID: 0e38891b2274f0e4296cc19db3db9e6d
+    m_Address: Assets/Localization/NPC/Neutral/Neutral NPC Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41ac0cf270ec8ef4c81084543a1b8849
+    m_Address: Assets/Localization/Common strings/Common strings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 421259471f655aa4cb2b4b4cf9efed9f
+    m_Address: Assets/Localization/Items/Usable/Usable Items Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4523d2f78064079429b803762bc003eb
+    m_Address: Assets/Localization/Items/Basic/Basic Items Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4da405a8e16075e4c824b2798461a4ef
+    m_Address: Assets/Localization/Items/Types/Item Types Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5168151213ac2504db821a565120cff6
+    m_Address: Assets/Localization/Player races/Human/Player races Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9eab20009600b8b4f86b1fe1aa5d2a1c
+    m_Address: Assets/Localization/Containers/Containers Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b176e0962efb42f439897110fcbd75e1
+    m_Address: Assets/Localization/Items/Types/Weapon Types/Weapon Types Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba840127e5feff54d8bb6a5c2f95c813
+    m_Address: Assets/Localization/Items/Rarities/Item Rarities Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4d9bd83ec676ee4d9edcd536e277d27
+    m_Address: Assets/Localization/NPC/Enemies/Enemy NPC Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 9804bfd5ad429804986237dcc7749d27, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8bccf0e48fc8d2843b204fe39bbf5198, type: 2}
+    - {fileID: 11400000, guid: a5c8aedeee6f7654a98702c98727d32b, type: 2}

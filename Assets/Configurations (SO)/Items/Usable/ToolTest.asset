@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 700702d784485ed45a955f8d01dd3853, type: 3}
+  m_Name: ToolTest
+  m_EditorClassIdentifier: 
+  <nameString>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:4523d2f78064079429b803762bc003eb
+    m_TableEntryReference:
+      m_KeyId: 669051428864
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <descriptionString>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:4523d2f78064079429b803762bc003eb
+    m_TableEntryReference:
+      m_KeyId: 669051428864
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <modelPrefab>k__BackingField: {fileID: 7559720719811024755, guid: 33aa91c0cf6ddb84cad281377f633925, type: 3}
+  <image>k__BackingField: {fileID: 21300000, guid: a6405d0d672e5144889711dd97af430d, type: 3}
+  <pickupSound>k__BackingField: {fileID: 0}
+  <dropSound>k__BackingField: {fileID: 0}
+  <type>k__BackingField: {fileID: 11400000, guid: b211e7d72239564449e4fa9e653660b9, type: 2}
+  <rarity>k__BackingField: {fileID: 11400000, guid: 07351e28585b5ad4c8ff35e2e0b515b3, type: 2}
+  <tradingCurrency>k__BackingField: {fileID: 11400000, guid: cba33fb5000fb254cb1d46f741f30ba1, type: 2}
+  <price>k__BackingField: 100
+  <stackSize>k__BackingField: 1
+  <weight>k__BackingField: 10
+  <isDisassemblable>k__BackingField: 0
+  <disassemblyItems>k__BackingField:
+  - {fileID: 11400000, guid: 3bdae0660bea02341ba45f2a13bd3a7e, type: 2}
+  - {fileID: 11400000, guid: d794630c58cb96b4685bcc3cbf08de4a, type: 2}
+  - {fileID: 11400000, guid: dd38a464dc6be9240be69ea3fdaed250, type: 2}
+  <disassemblyItemsAmount>k__BackingField: 010000000100000001000000
+  <weaponType>k__BackingField: {fileID: 11400000, guid: d5854da4f9e9fcf4fa5df00a389d0877, type: 2}
+  <damage>k__BackingField: 10
+  <damageType>k__BackingField: 0
+  <range>k__BackingField: 1
+  <staminaConsumption>k__BackingField: 10
+  <timeBetweenAtacks>k__BackingField: 0.65
+  <activationAnimation>k__BackingField: {fileID: 0}
+  <animationLength>k__BackingField: 0
+  <projectileVelocity>k__BackingField: 100
+  <projectileWeight>k__BackingField: 40
+  <ammoItem>k__BackingField: {fileID: 0}
+  <isThrowable>k__BackingField: 0
+  <isDisappearsOnThrow>k__BackingField: 0
+  <isReturnsAfterThrow>k__BackingField: 0
+  <returnsAfterTime>k__BackingField: 5
+  references:
+    version: 2
+    RefIds: []

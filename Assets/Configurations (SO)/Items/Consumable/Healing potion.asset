@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94611390372e17a49b95c4bec256060a, type: 3}
+  m_Name: Healing potion
+  m_EditorClassIdentifier: 
+  <nameString>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:4523d2f78064079429b803762bc003eb
+    m_TableEntryReference:
+      m_KeyId: 669051428864
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <descriptionString>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:4523d2f78064079429b803762bc003eb
+    m_TableEntryReference:
+      m_KeyId: 669051428864
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <modelPrefab>k__BackingField: {fileID: 2899777209921877499, guid: 3ed46cac1048fd345bda0d7aec7449d8, type: 3}
+  <image>k__BackingField: {fileID: 21300000, guid: c306dd808f96b01418d4cf4ea1e9d0f4, type: 3}
+  <pickupSound>k__BackingField: {fileID: 0}
+  <dropSound>k__BackingField: {fileID: 0}
+  <type>k__BackingField: {fileID: 11400000, guid: a643cc844f4ed0049a9fbf17d2d3327e, type: 2}
+  <rarity>k__BackingField: {fileID: 11400000, guid: b19ff78d3a5c29c43a4ecaa2a1379424, type: 2}
+  <tradingCurrency>k__BackingField: {fileID: 11400000, guid: cba33fb5000fb254cb1d46f741f30ba1, type: 2}
+  <price>k__BackingField: 50
+  <stackSize>k__BackingField: 5
+  <weight>k__BackingField: 0.4
+  <isDisassemblable>k__BackingField: 0
+  <disassemblyItems>k__BackingField: []
+  <disassemblyItemsAmount>k__BackingField: 
+  <primaryActionAnimationName>k__BackingField: Drinking
+  <animationSpeed>k__BackingField: 1
+  <isEffectOverTime>k__BackingField: 0
+  <effectTime>k__BackingField: 1
+  <healAmount>k__BackingField: 25
+  <staminaRegainAmount>k__BackingField: 0
+  <thirstRecovery>k__BackingField: 5
+  <hungerRecovery>k__BackingField: 0
+  <temperatureBonus>k__BackingField: 0
+  <aberrationResistBonus>k__BackingField: 0
+  <bonusEffects>k__BackingField: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b410c9fe348adf43ac7fc2ba250099e, type: 3}
+  m_Name: Crafting field
+  m_EditorClassIdentifier: 
+  <nameString>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <numberOfSlots>k__BackingField: 6
+  <isPermanent>k__BackingField: 0
+  <isSpecialized>k__BackingField: 1
+  <slotsType>k__BackingField: {fileID: 11400000, guid: 4dbcf67ae33ac154294d8b5413ce6d78, type: 2}
+  <groupTag>k__BackingField: 0
+  <isApplyingItemsEffects>k__BackingField: 0
+  <itemsInIt>k__BackingField: []
+  references:
+    version: 2
+    RefIds: []

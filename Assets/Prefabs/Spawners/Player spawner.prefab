@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1949152510171888136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3861149984890691234}
+  - component: {fileID: 4946330839550237783}
+  m_Layer: 6
+  m_Name: Player spawner
+  m_TagString: Spawner
+  m_Icon: {fileID: 2800000, guid: f21b64bf1fab69b43a0a9ba0ffc19c2b, type: 3}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!224 &3861149984890691234
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949152510171888136}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0.13474417}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -1.1870136, y: 1.724}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &4946330839550237783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949152510171888136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f3b5a5e60afa0a4484d35cb4c322c5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnInTheAir: 0
+  playerEntityPrefab: {fileID: 3938144404995891509, guid: 53743da96ba782d4fbf08a01fa256f76, type: 3}
+  playerRaceConfig: {fileID: 11400000, guid: d28ce493594e2e54686e740b71a7ed69, type: 2}
+  backpackConfig: {fileID: 11400000, guid: c6537eb285c05aa4a9ca5cb92e60810f, type: 2}
+  quickBarConfig: {fileID: 11400000, guid: 9c47afdec88edcf459a94a9b796c7585, type: 2}
+  headSlotConfig: {fileID: 11400000, guid: 75fde9f493e2a60469975fc711d353d9, type: 2}
+  bodySlotConfig: {fileID: 11400000, guid: 2822207acfc78c24fa21842b0c7bb6e4, type: 2}
+  feetSlotConfig: {fileID: 11400000, guid: 7d0fcaccc1f1cbd439b23d71f018a1d4, type: 2}
+  specialSlotConfig: {fileID: 11400000, guid: ea1e4572de9be1e469f278d4458e83cd, type: 2}
+  bagSlotConfig: {fileID: 11400000, guid: ba963a487b811834eaa2996af642b649, type: 2}
+  accessorySlotsConfig: {fileID: 11400000, guid: 030871f1e0ac202408c73e24847f4955, type: 2}
+  craftingFieldConfig: {fileID: 11400000, guid: abd0e95210380424e9c4893e41609aab, type: 2}
+  craftingResultsConfig: {fileID: 11400000, guid: a4211275d1aa3fd428b7bc1fa80145ef, type: 2}
+  barterPlayerTransfersConfig: {fileID: 11400000, guid: 3a699e1d401a2e64597dc594f85d0989, type: 2}
+  barterTraderTransfersConfig: {fileID: 11400000, guid: 1f6aacc801d80164dbf7f3b21bd177d5, type: 2}

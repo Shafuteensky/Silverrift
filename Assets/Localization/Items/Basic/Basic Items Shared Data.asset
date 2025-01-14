@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Basic Items Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Basic Items
+  m_TableCollectionNameGuidString: 4523d2f78064079429b803762bc003eb
+  m_Entries:
+  - m_Id: 669051428864
+    m_Key: BASIC_ITEM_STANDARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388366138605568
+    m_Key: BASIC_ITEM_WOOD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390630446202880
+    m_Key: BASIC_ITEM_STONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6161997520609280
+    m_Key: BASIC_ITEM_ADALASTIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6482779664719872
+    m_Key: BASIC_ITEM_MONEY
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3415656103849754781
+  references:
+    version: 2
+    RefIds:
+    - rid: 3415656103849754781
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1730883112159

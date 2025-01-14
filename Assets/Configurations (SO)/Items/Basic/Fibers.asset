@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04a5f02e13e27c14da2a2678e3e666db, type: 3}
+  m_Name: Fibers
+  m_EditorClassIdentifier: 
+  <nameString>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:4523d2f78064079429b803762bc003eb
+    m_TableEntryReference:
+      m_KeyId: 669051428864
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <descriptionString>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:4523d2f78064079429b803762bc003eb
+    m_TableEntryReference:
+      m_KeyId: 669051428864
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <modelPrefab>k__BackingField: {fileID: 1466686009258454891, guid: ceabe3c1c2f570540a452a93528273ba, type: 3}
+  <image>k__BackingField: {fileID: 21300000, guid: c5391b5acc43a8a40b3473303853c218, type: 3}
+  <pickupSound>k__BackingField: {fileID: 0}
+  <dropSound>k__BackingField: {fileID: 0}
+  <type>k__BackingField: {fileID: 11400000, guid: 4dbcf67ae33ac154294d8b5413ce6d78, type: 2}
+  <rarity>k__BackingField: {fileID: 11400000, guid: 07351e28585b5ad4c8ff35e2e0b515b3, type: 2}
+  <weight>k__BackingField: 0.25
+  <tradingCurrency>k__BackingField: {fileID: 11400000, guid: cba33fb5000fb254cb1d46f741f30ba1, type: 2}
+  <price>k__BackingField: 1
+  <stackSize>k__BackingField: 20
+  <isDisassembled>k__BackingField: 0
+  <disassemblyItems>k__BackingField: []
+  <disassemblyItemsAmount>k__BackingField: 
+  references:
+    version: 2
+    RefIds: []

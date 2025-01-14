@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item Rarities_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ba840127e5feff54d8bb6a5c2f95c813, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 74043269120
+    m_Localized: Common
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213109612544
+    m_Localized: Uncommon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215307427840
+    m_Localized: Rare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217094201344
+    m_Localized: Epic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218692231168
+    m_Localized: Legendary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 354398937088
+    m_Localized: Mythical
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1386699566522368
+    m_Localized: No rarirty
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
